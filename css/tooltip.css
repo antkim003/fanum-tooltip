@@ -1,0 +1,17 @@
+div.helptext {
+  width: 100px;
+  height: 50px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  margin-top: 20%;
+  margin-left: 50%;
+}
+
+.tooltip {
+  width: 200px;
+  padding-top: 37px;
+  display: none;
+  position: absolute;
+  background-color: gray;
+}
